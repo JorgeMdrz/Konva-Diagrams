@@ -5,7 +5,9 @@ import Properties from './components/Properties'
 function App() {
   return (
     <div className="App">
+      <Browser></Browser>
       <Board></Board>
+      <Properties></Properties>
     </div>
   );
 }

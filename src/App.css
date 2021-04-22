@@ -10,7 +10,7 @@ body {
   background-color: rgba(127, 255, 212, 0.212);
   position: absolute;
   z-index: 9999;
-  top: 40%;
+  top: 0%;
   left: 0px;
   padding: 5px;
 }
@@ -20,7 +20,7 @@ body {
   background-color: rgba(127, 146, 255, 0.287);
   position: absolute;
   z-index: 9999;
-  top: 40%;
+  top: 0%;
   left: 85%;
 }
 
