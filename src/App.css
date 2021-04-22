@@ -16,7 +16,7 @@ body {
 }
 .properties{
   height: 40%;
-  width: 15%;
+  width: 10%;
   background-color: rgba(127, 146, 255, 0.287);
   position: absolute;
   z-index: 9999;
