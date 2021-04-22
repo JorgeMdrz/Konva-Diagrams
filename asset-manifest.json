@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Konva-Diagrams/static/css/main.697144b8.chunk.css",
+    "main.js": "/Konva-Diagrams/static/js/main.5b4f89c7.chunk.js",
+    "main.js.map": "/Konva-Diagrams/static/js/main.5b4f89c7.chunk.js.map",
+    "runtime-main.js": "/Konva-Diagrams/static/js/runtime-main.80038bb1.js",
+    "runtime-main.js.map": "/Konva-Diagrams/static/js/runtime-main.80038bb1.js.map",
+    "static/js/2.d383cfa2.chunk.js": "/Konva-Diagrams/static/js/2.d383cfa2.chunk.js",
+    "static/js/2.d383cfa2.chunk.js.map": "/Konva-Diagrams/static/js/2.d383cfa2.chunk.js.map",
+    "static/js/3.99aad200.chunk.js": "/Konva-Diagrams/static/js/3.99aad200.chunk.js",
+    "static/js/3.99aad200.chunk.js.map": "/Konva-Diagrams/static/js/3.99aad200.chunk.js.map",
+    "index.html": "/Konva-Diagrams/index.html",
+    "static/css/main.697144b8.chunk.css.map": "/Konva-Diagrams/static/css/main.697144b8.chunk.css.map",
+    "static/js/2.d383cfa2.chunk.js.LICENSE.txt": "/Konva-Diagrams/static/js/2.d383cfa2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80038bb1.js",
+    "static/js/2.d383cfa2.chunk.js",
+    "static/css/main.697144b8.chunk.css",
+    "static/js/main.5b4f89c7.chunk.js"
+  ]
+}
